@@ -24,8 +24,12 @@ gem 'jbuilder', '~> 2.7'
 
 # Use unicorn as the app server
 # gem 'unicorn'
+
+#images
 gem "paperclip"
 
+#authentification
+gem 'sorcery'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
